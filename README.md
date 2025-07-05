@@ -35,11 +35,3 @@ Content Image: A photograph or image with desired content. Style Image: An artis
 Output:
 The generated image preserves the structure of the content image while applying the artistic style.
 
-Results
-The project successfully produces visually appealing stylized images. Here's an example:
-
-Content Image: content
-
-Style Image: style
-
-Output Image: image
